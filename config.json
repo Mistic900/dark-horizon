@@ -1,0 +1,20 @@
+
+{
+  "rpc_url": "https://virtual.sepolia.eu.rpc.tenderly.co/307944d0-23ff-4f81-a47b-05da7b6f4a79",
+  "wss_url": "wss://virtual.sepolia.eu.rpc.tenderly.co/6e4dd170-2559-445c-a01c-8439996a247c",
+  "private_key": "bbb596aa3998829cebc951df4b9d3efbcf8f5010b4e5606a63621c80c816441c",
+  "contract_address": "0x5fd86C758718C7B511d70D6c3e30765FC7C50c3c",
+  "chain_id": 11155111,
+  "flash_swap": {
+    "pool0": "0x6e81f4a9be879ce9fcbad4eafc9311fb9e766299",
+    "tokenIn": "0x1c7d4b196cb0c7b01d743fbc6116a902379c7238",
+    "tokenOut": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "fee1": 100,
+    "amountIn": 100,
+    "gas_limit": 800000,
+    "monitoring": {
+      "enabled": true,
+      "block_interval": 1
+    }
+  }
+}
